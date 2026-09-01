@@ -1,17 +1,4 @@
-# Secret configuration files (CRUCIAL)
 .env
-
-# Python caching and temporary execution data
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Local environment folders (if you use venv or virtual environments)
-venv/
-.venv/
-env/
-
-# Editor-specific hidden configuration folders
 .vscode/
-.idea/
